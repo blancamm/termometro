@@ -1,0 +1,1 @@
+Hacer un termometro con pygame que tenga imagenes
